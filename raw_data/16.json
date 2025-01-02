@@ -1,0 +1,114 @@
+{
+  "Arbiter": {
+    "line_nr": 2,
+    "text": "Cancel orders in my telegram, letter by post"
+  },
+  "Arbitror": {
+    "line_nr": 3,
+    "text": "Cancel orders in my letter"
+  },
+  "Arboreus": {
+    "line_nr": 5,
+    "text": "Cancel orders previously sent, and substitute following"
+  },
+  "Arbusto": {
+    "line_nr": 6,
+    "text": "Cancel orders, wait further instructions"
+  },
+  "Arbustum": {
+    "line_nr": 7,
+    "text": "Cannot cancel orders, already attended to"
+  },
+  "Arbuteus": {
+    "line_nr": 10,
+    "text": "Cannot cancel orders already attended to, letter follows"
+  },
+  "Arcanus": {
+    "line_nr": 11,
+    "text": "Carriage must be charged forward"
+  },
+  "Archon": {
+    "line_nr": 12,
+    "text": "Carriage must be prepaid"
+  },
+  "Arctos": {
+    "line_nr": 13,
+    "text": "Carriage must be sent for me"
+  },
+  "Arcturus": {
+    "line_nr": 14,
+    "text": "Carriage need not be sent for me"
+  },
+  "Arcuatim": {
+    "line_nr": 15,
+    "text": "Charge has been made in error"
+  },
+  "Ardelio": {
+    "line_nr": 16,
+    "text": "Charge has been withdrawn"
+  },
+  "Ardenter": {
+    "line_nr": 17,
+    "text": "Am I to take charge of ---"
+  },
+  "Ardesco": {
+    "line_nr": 18,
+    "text": "Take charge of ---"
+  },
+  "Arduitas": {
+    "line_nr": 19,
+    "text": "Take charge of everything"
+  },
+  "Arefacio": {
+    "line_nr": 20,
+    "text": "Take charge of everything until my arrival"
+  },
+  "Arenosus": {
+    "line_nr": 21,
+    "text": "Whom do you wish to take charge of ---"
+  },
+  "Arenula": {
+    "line_nr": 22,
+    "text": "Charges must be paid by ---"
+  },
+  "Areola": {
+    "line_nr": 23,
+    "text": "Shall I pay charges"
+  },
+  "Argema": {
+    "line_nr": 24,
+    "text": "Who will pay the charges"
+  },
+  "Argemone": {
+    "line_nr": 26,
+    "text": "Cheque is sent to-day"
+  },
+  "Argentum": {
+    "line_nr": 27,
+    "text": "Cheque has been duly paid"
+  },
+  "Argilla": {
+    "line_nr": 28,
+    "text": "Cheque has been lost. Stop payment"
+  },
+  "Argus": {
+    "line_nr": 29,
+    "text": "Cheque has been presented and paid"
+  },
+  "Arguto": {
+    "line_nr": 31,
+    "text": "Cheque has been presented and returned marked ---"
+  },
+  "Argyritis": {
+    "line_nr": 33,
+    "text": "Cheque returned unpaid, send cash by return of post"
+  },
+  "Ariditas": {
+    "line_nr": 34,
+    "text": "Cheque will be sent to-morrow"
+  },
+  "Arieto": {
+    "line_nr": 35,
+    "text": "Has cheque been paid"
+  }
+}
