@@ -1,0 +1,112 @@
+{
+  "Admorsus": {
+    "line_nr": 1,
+    "text": "Apply at once for ---"
+  },
+  "Admugio": {
+    "line_nr": 2,
+    "text": "Do not apply for ---"
+  },
+  "Admutilo": {
+    "line_nr": 6,
+    "text": "Appointment has been made for ---"
+  },
+  "Adnascor": {
+    "line_nr": 7,
+    "text": "Cannot attend the appointment made"
+  },
+  "Adnavigo": {
+    "line_nr": 9,
+    "text": "Cannot keep my appointment for ---"
+  },
+  "Adnoto": {
+    "line_nr": 10,
+    "text": "What appointment has been made"
+  },
+  "Adoptio": {
+    "line_nr": 11,
+    "text": "Hope to be with you in a few days"
+  },
+  "Adoreus": {
+    "line_nr": 12,
+    "text": "Hope to be with you next week"
+  },
+  "Adorno": {
+    "line_nr": 13,
+    "text": "Hope to be with you on ---"
+  },
+  "Adpluo": {
+    "line_nr": 14,
+    "text": "Hope to be with you this evening"
+  },
+  "Adrepo": {
+    "line_nr": 15,
+    "text": "Hope to be with you to-day"
+  },
+  "Adscisco": {
+    "line_nr": 16,
+    "text": "Hope to be with you to-morrow"
+  },
+  "Adscitus": {
+    "line_nr": 17,
+    "text": "Hope to see you this evening"
+  },
+  "Adsum": {
+    "line_nr": 18,
+    "text": "Hope to see you to-day"
+  },
+  "Advectio": {
+    "line_nr": 19,
+    "text": "Hope to see you to-morrow"
+  },
+  "Advenio": {
+    "line_nr": 20,
+    "text": "Shall be at home this evening"
+  },
+  "Adventus": {
+    "line_nr": 21,
+    "text": "Shall be at office to-day"
+  },
+  "Adversor": {
+    "line_nr": 22,
+    "text": "Shall be at office to-morrow"
+  },
+  "Advexi": {
+    "line_nr": 24,
+    "text": "Shall be at your house this evening Adversum. Shall be at your house to-day"
+  },
+  "Advigilo": {
+    "line_nr": 25,
+    "text": "Shall be at your office to-day"
+  },
+  "Adulator": {
+    "line_nr": 26,
+    "text": "Shall be at your office to-morrow"
+  },
+  "Adulor": {
+    "line_nr": 27,
+    "text": "Shall be in town and will see you on ---"
+  },
+  "Adumbro": {
+    "text": "Shall be in town to-day and will call on you at ---"
+  },
+  "Aduncus": {
+    "line_nr": 31,
+    "text": "Shall be in town to-morrow and will call on you at ---"
+  },
+  "Advoco": {
+    "line_nr": 32,
+    "text": "Shall expect you this evening"
+  },
+  "Advolvo": {
+    "line_nr": 33,
+    "text": "Shall expect you to-day"
+  },
+  "Adustio": {
+    "line_nr": 34,
+    "text": "Shall expect you to-morrow"
+  },
+  "Adytum": {
+    "text": "Wish to see you, and will remain here until ---"
+  }
+}

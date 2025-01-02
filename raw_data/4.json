@@ -1,0 +1,118 @@
+{
+  "Accolens": {
+    "line_nr": 1,
+    "text": "May I agree to ---"
+  },
+  "Accredo": {
+    "line_nr": 2,
+    "text": "Will you agree to ---"
+  },
+  "Accresco": {
+    "line_nr": 4,
+    "text": "Agreement is arranged as to terms, but waits signature"
+  },
+  "Accretus": {
+    "line_nr": 5,
+    "text": "Agreement must be sent for our signature"
+  },
+  "Accudo": {
+    "line_nr": 7,
+    "text": "Agreement will be sent for your signature to-day"
+  },
+  "Accumbo": {
+    "line_nr": 8,
+    "text": "Agreement will be sent on ---"
+  },
+  "Accumulo": {
+    "line_nr": 9,
+    "text": "Do you confirm the agreement"
+  },
+  "Accursus": {
+    "line_nr": 10,
+    "text": "Have not entered into any agreement"
+  },
+  "Acerbe": {
+    "line_nr": 11,
+    "text": "Have you entered into any agreement"
+  },
+  "Acerra": {
+    "line_nr": 12,
+    "text": "They confirm the agreement"
+  },
+  "Acetaria": {
+    "line_nr": 13,
+    "text": "They do not confirm the agreement"
+  },
+  "Achates": {
+    "line_nr": 14,
+    "text": "We confirm the agreement"
+  },
+  "Acheron": {
+    "line_nr": 15,
+    "text": "We do not confirm the agreement"
+  },
+  "Achnas": {
+    "line_nr": 16,
+    "text": "Alarmed at not having any news"
+  },
+  "Acidulus": {
+    "line_nr": 17,
+    "text": "Is there any cause for alarm"
+  },
+  "Acinaces": {
+    "line_nr": 18,
+    "text": "Allowance is asked for of ---"
+  },
+  "Acinosus": {
+    "line_nr": 19,
+    "text": "Allowance is too great"
+  },
+  "Aclis": {
+    "line_nr": 20,
+    "text": "Allowance is too small"
+  },
+  "Aconitum": {
+    "line_nr": 21,
+    "text": "Have had to make a large allowance"
+  },
+  "Acopum": {
+    "line_nr": 22,
+    "text": "Have had to make a small allowance"
+  },
+  "Acquievi": {
+    "line_nr": 23,
+    "text": "What allowance is asked for"
+  },
+  "Acquiro": {
+    "line_nr": 24,
+    "text": "What allowance will you make"
+  },
+  "Acredula": {
+    "line_nr": 25,
+    "text": "What allowance would you propose"
+  },
+  "Acriter": {
+    "line_nr": 26,
+    "text": "Expected to be alongside by ---"
+  },
+  "Acritude": {
+    "line_nr": 27,
+    "text": "Alteration cannot be made"
+  },
+  "Acroama": {
+    "line_nr": 28,
+    "text": "Alteration has been made as requested"
+  },
+  "Acroasis": {
+    "line_nr": 29,
+    "text": "Alteration must be made ."
+  },
+  "Actito": {
+    "line_nr": 30,
+    "text": "Alteration must not be made ."
+  },
+  "Actuosus": {
+    "line_nr": 31,
+    "text": "No alteration has been made"
+  }
+}

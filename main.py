@@ -1,4 +1,5 @@
 import json
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -24,7 +25,7 @@ class TextChunk:
     @property
     def text_str(self) -> str:
         def clean(text: str) -> str:
-            if text in ["-"]:
+            if text in ["-", "―"]:
                 return "---"
             # if text in ["."]:
             #     return ""
@@ -34,6 +35,7 @@ class TextChunk:
 
         total_text = "".join(text)
         total_text = total_text.replace("to---day", "to-day")
+        total_text = total_text.replace("to---morrow", "to-morrow")
         return total_text
 
     @property
@@ -69,10 +71,10 @@ doc = pymupdf.open("Unicode_The_Universal_Telegraphic_Phrase.pdf")
 page_offset = 15
 
 
-def extract_page(page_nr: int, debug: bool = False):
+def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = False):
     pdf_page: pymupdf.Page = doc[page_nr + page_offset]
     chunks = []
-    page = Page(starting_letters=frozenset({"A"}))
+    page = Page(starting_letters)
     for block in pdf_page.get_textpage().extractDICT()["blocks"]:
         for line in block["lines"]:
             text = [s["text"] for s in line["spans"]]
@@ -123,7 +125,9 @@ def extract_page(page_nr: int, debug: bool = False):
                 matching_code = code_chunk.text_str
                 break
         if matching_code is None:
-            raise ValueError("No matching code found")
+            print(f"no matching code found for chunk {c}")
+            print(c.text_str)
+            continue
         if "chunks" in out_data[matching_code]:
             out_data[matching_code]["chunks"].append(c)
         else:
@@ -151,4 +155,4 @@ def extract_page(page_nr: int, debug: bool = False):
 
 
 if __name__ == '__main__':
-    extract_page(1)
+    extract_page(int(sys.argv[1]), frozenset(sys.argv[2]))

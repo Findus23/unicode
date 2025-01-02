@@ -1,0 +1,114 @@
+{
+  "Adfrango": {
+    "line_nr": 1,
+    "text": "Confirm the announcement"
+  },
+  "Adgemo": {
+    "line_nr": 2,
+    "text": "Contradict the announcement"
+  },
+  "Adhalo": {
+    "line_nr": 3,
+    "text": "Annoyed very much at delay"
+  },
+  "Adhibeo": {
+    "line_nr": 4,
+    "text": "Annoyed very much at refusal"
+  },
+  "Adhinnio": {
+    "line_nr": 5,
+    "text": "Annoyed very much at silence"
+  },
+  "Adhortor": {
+    "line_nr": 6,
+    "text": "Annoyed very much at statement"
+  },
+  "Adhuc": {
+    "line_nr": 7,
+    "text": "Anxious about safety of ---"
+  },
+  "Adiantum": {
+    "line_nr": 8,
+    "text": "Anxious to have your reply immediately"
+  },
+  "Adimo": {
+    "line_nr": 9,
+    "text": "Anxious to hear from you about ---"
+  },
+  "Adipatum": {
+    "line_nr": 10,
+    "text": "Anticipate little difficulty"
+  },
+  "Adipsos": {
+    "line_nr": 11,
+    "text": "Anticipate much difficulty"
+  },
+  "Aditur": {
+    "line_nr": 12,
+    "text": "Anticipate some difficulty"
+  },
+  "Aditurus": {
+    "line_nr": 13,
+    "text": "Do you anticipate any difficulty"
+  },
+  "Adjaceo": {
+    "line_nr": 14,
+    "text": "Apartments requested are secured at ---"
+  },
+  "Adjugo": {
+    "line_nr": 16,
+    "text": "Apartments required are engaged, and ready for immediate occupation"
+  },
+  "Adjunctio": {
+    "line_nr": 18,
+    "text": "Apartments required are engaged, and will be ready for occupation on ---"
+  },
+  "Adjunxi": {
+    "line_nr": 19,
+    "text": "Cannot secure apartments you wish"
+  },
+  "Adjutor": {
+    "line_nr": 21,
+    "text": "Cannot secure apartments you wish, but can get ---"
+  },
+  "Adjutrix": {
+    "line_nr": 22,
+    "text": "Secure apartments at ---"
+  },
+  "Admetior": {
+    "line_nr": 23,
+    "text": "Secure a bedroom for me"
+  },
+  "Admiror": {
+    "line_nr": 24,
+    "text": "Secure a bedroom and sitting-room"
+  },
+  "Admisceo": {
+    "line_nr": 25,
+    "text": "Secure two bedrooms for ---"
+  },
+  "Admistus": {
+    "line_nr": 26,
+    "text": "Secure two bedrooms and sitting-room"
+  },
+  "Admitto": {
+    "line_nr": 27,
+    "text": "Secure three bedrooms"
+  },
+  "Admodum": {
+    "line_nr": 28,
+    "text": "Secure three bedrooms and sitting-room"
+  },
+  "Admolior": {
+    "line_nr": 29,
+    "text": "Secure a double-bedded room"
+  },
+  "Admoneo": {
+    "line_nr": 31,
+    "text": "Secure a double-bedded room and sitting-room"
+  },
+  "Admordeo": {
+    "line_nr": 32,
+    "text": "Secure sufficient accommodation for us"
+  }
+}
