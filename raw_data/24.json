@@ -1,0 +1,94 @@
+{
+  "Cestus": {
+    "line_nr": 1,
+    "text": "It was unavoidably delayed"
+  },
+  "Cetarius": {
+    "line_nr": 2,
+    "text": "There will be considerable delay"
+  },
+  "Chalcis": {
+    "line_nr": 3,
+    "text": "There will be some delay"
+  },
+  "Chaos": {
+    "line_nr": 4,
+    "text": "Deliver only against payment"
+  },
+  "Charta": {
+    "line_nr": 5,
+    "text": "Can only deliver on prepayment"
+  },
+  "Chelonia": {
+    "line_nr": 7,
+    "text": "Cannot be delivered owing to insufficient address"
+  },
+  "Chelys": {
+    "line_nr": 8,
+    "text": "Cannot deliver the goods by the time named"
+  },
+  "Chersos": {
+    "line_nr": 10,
+    "text": "Cannot deliver the goods until ---"
+  },
+  "Chia": {
+    "line_nr": 12,
+    "text": "Do not deliver until you receive instructions"
+  },
+  "Chimaera": {
+    "line_nr": 13,
+    "text": "Delivery can be made at once"
+  },
+  "Chlamys": {
+    "line_nr": 14,
+    "text": "Delivery can be made in ---"
+  },
+  "Chlorion": {
+    "line_nr": 18,
+    "text": "Departure postponed"
+  },
+  "Chorus": {
+    "line_nr": 19,
+    "text": "Departure postponed until"
+  },
+  "Chreston": {
+    "line_nr": 20,
+    "text": "Departure postponed until next mail"
+  },
+  "Chroma": {
+    "line_nr": 21,
+    "text": "Departure postponed for a few days"
+  },
+  "Chrysos": {
+    "line_nr": 22,
+    "text": "Departure postponed for one month"
+  },
+  "Cibalis": {
+    "line_nr": 24,
+    "text": "Departure postponed for one month, letter follows"
+  },
+  "Ciborium": {
+    "line_nr": 25,
+    "text": "Departure postponed for six weeks"
+  },
+  "Cicatrix": {
+    "line_nr": 27,
+    "text": "Departure postponed for six weeks, letter follows"
+  },
+  "Cicera": {
+    "line_nr": 28,
+    "text": "Departure postponed for two months"
+  },
+  "Ciconia": {
+    "line_nr": 30,
+    "text": "Departure postponed for two months, letter follows"
+  },
+  "Cimex": {
+    "line_nr": 31,
+    "text": "Describe exactly what you want"
+  },
+  "Cimolia": {
+    "line_nr": 32,
+    "text": "Describe the position fully"
+  }
+}

@@ -1,4 +1,5 @@
 import json
+import math
 import sys
 from dataclasses import dataclass
 from pathlib import Path
@@ -35,7 +36,9 @@ class TextChunk:
 
         total_text = "".join(text)
         total_text = total_text.replace("to---day", "to-day")
+        total_text = total_text.replace("to---night", "to-night")
         total_text = total_text.replace("to---morrow", "to-morrow")
+
         return total_text
 
     @property
@@ -71,16 +74,46 @@ doc = pymupdf.open("Unicode_The_Universal_Telegraphic_Phrase.pdf")
 page_offset = 15
 
 
+def rotate(origin, point, angle_deg):
+    """
+    Rotate a point counterclockwise by a given angle around a given origin.
+
+    The angle should be given in radians.
+    """
+    angle = math.radians(angle_deg)
+    ox, oy = origin
+    px, py = point
+
+    qx = ox + math.cos(angle) * (px - ox) - math.sin(angle) * (py - oy)
+    qy = oy + math.sin(angle) * (px - ox) + math.cos(angle) * (py - oy)
+    return qx, qy
+
+
+def rotate_bbox(bbox, page_center, angle):
+    xmin, ymin, xmax, ymax = bbox
+    xmin, ymin = rotate(page_center, (xmin, ymin), angle)
+    xmax, ymax = rotate(page_center, (xmax, ymax), angle)
+    return xmin, ymin, xmax, ymax
+
+
+angle = 0
+# angle = 0.7
+
+
 def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = False):
     pdf_page: pymupdf.Page = doc[page_nr + page_offset]
     chunks = []
     page = Page(starting_letters)
-    for block in pdf_page.get_textpage().extractDICT()["blocks"]:
+    all_data = pdf_page.get_textpage().extractDICT()
+    page_width = all_data["width"]
+    page_height = all_data["height"]
+    page_center = (page_width / 2, page_height / 2)
+    for block in all_data["blocks"]:
         for line in block["lines"]:
             text = [s["text"] for s in line["spans"]]
             chunk = TextChunk(
                 text=tuple(text),
-                bbox=line["bbox"],
+                bbox=rotate_bbox(line["bbox"], page_center, angle),
                 page=page,
             )
             if chunk.is_just_dot:
@@ -107,6 +140,11 @@ def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = F
     out_data = {}
 
     code_chunks = [c for c in chunks if c.is_code]
+    code_start_xs=[]
+    for code_chunk in code_chunks:
+        code_start_xs.append(code_chunk.xy_coord[0])
+    print(code_start_xs[0],code_start_xs[-1])
+
     code_chunks.sort(key=lambda c: c.y_coord)
     other_chunks = [c for c in chunks if not c.is_code]
 
@@ -148,8 +186,8 @@ def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = F
     # print(sorted(names))
     # assert names == sorted(names)
 
-    if outfile.exists():
-        raise FileExistsError(f"File '{outfile}' already exists")
+    # if outfile.exists():
+    #     raise FileExistsError(f"File '{outfile}' already exists")
     with outfile.open("w") as f:
         json.dump(out_data, f, indent=2, ensure_ascii=False)
 

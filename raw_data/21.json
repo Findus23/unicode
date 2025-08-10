@@ -1,0 +1,130 @@
+{
+  "Cacabus": {
+    "line_nr": 1,
+    "text": "Damage is serious"
+  },
+  "Cachexia": {
+    "line_nr": 2,
+    "text": "Damage is slight"
+  },
+  "Cachinno": {
+    "line_nr": 3,
+    "text": "How long will it take to repair damage"
+  },
+  "Cachla": {
+    "line_nr": 4,
+    "text": "How was damage caused"
+  },
+  "Cadaver": {
+    "line_nr": 5,
+    "text": "What is amount of damage done"
+  },
+  "Cadivus": {
+    "line_nr": 6,
+    "text": "Date of last letter is ---"
+  },
+  "Cadmites": {
+    "line_nr": 7,
+    "text": "What date do you arrive"
+  },
+  "Caduceum": {
+    "line_nr": 8,
+    "text": "What date do you leave"
+  },
+  "Caelamen": {
+    "line_nr": 9,
+    "text": "What date does trial commence"
+  },
+  "Caelum": {
+    "line_nr": 10,
+    "text": "What date does your leave commence"
+  },
+  "Calcitro": {
+    "line_nr": 11,
+    "text": "What date does your leave terminate"
+  },
+  "Calefacio": {
+    "line_nr": 12,
+    "text": "What date was your last letter"
+  },
+  "Caligo": {
+    "line_nr": 13,
+    "text": "What date was your last telegram"
+  },
+  "Callidus": {
+    "line_nr": 14,
+    "text": "Day after to-morrow"
+  },
+  "Calthula": {
+    "line_nr": 15,
+    "text": "How many days can you allow"
+  },
+  "Calvaria": {
+    "line_nr": 16,
+    "text": "In the course of the day"
+  },
+  "Calvatus": {
+    "line_nr": 17,
+    "text": "In the course of the last few days"
+  },
+  "Calyx": {
+    "line_nr": 18,
+    "text": "In the course of the next few days"
+  },
+  "Camella": {
+    "line_nr": 19,
+    "text": "Dealt with them for many years"
+  },
+  "Camera": {
+    "line_nr": 20,
+    "text": "When did he (or she) die"
+  },
+  "Caminor": {
+    "line_nr": 21,
+    "text": "Died suddenly, come at once"
+  },
+  "Cancello": {
+    "line_nr": 22,
+    "text": "Died suddenly, do not come, will write you"
+  },
+  "Cancer": {
+    "line_nr": 23,
+    "text": "Died suddenly, require instructions"
+  },
+  "Candela": {
+    "line_nr": 24,
+    "text": "Died suddenly, will write particulars"
+  },
+  "Candesco": {
+    "line_nr": 25,
+    "text": "Died to-day, come at once"
+  },
+  "Canicula": {
+    "line_nr": 26,
+    "text": "Died to-day, do not come, will write"
+  },
+  "Canopus": {
+    "line_nr": 27,
+    "text": "Died to-day, will write particulars"
+  },
+  "Cantamen": {
+    "line_nr": 28,
+    "text": "Died yesterday, come at once"
+  },
+  "Cantator": {
+    "line_nr": 29,
+    "text": "Died yesterday, do not come, will write"
+  },
+  "Canticum": {
+    "line_nr": 30,
+    "text": "Died yesterday, will write particulars"
+  },
+  "Capedo": {
+    "line_nr": 31,
+    "text": "Baby died to-day, particulars by letter"
+  },
+  "Capella": {
+    "line_nr": 32,
+    "text": "Baby died yesterday, particulars by letter"
+  }
+}

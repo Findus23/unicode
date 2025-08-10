@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Unicode",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Za-z]+$": {
+      "type": "object",
+      "properties": {
+        "line_nr": {
+          "type": "integer",
+          "description": ""
+        },
+        "text": {
+          "type": "string",
+          "description": ""
+        }
+      },
+      "required": ["line_nr", "text"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false,
+  "description": ""
+}

@@ -1,0 +1,110 @@
+{
+  "Diatoni": {
+    "line_nr": 1,
+    "text": "Goods arrived in bad condition; letter follows"
+  },
+  "Diaulus": {
+    "line_nr": 2,
+    "text": "Goods arrived safe"
+  },
+  "Dicatura": {
+    "line_nr": 4,
+    "text": "Goods arrived slightly damaged; letter follows"
+  },
+  "Dictator": {
+    "line_nr": 5,
+    "text": "Goods left by ---"
+  },
+  "Diduco": {
+    "line_nr": 6,
+    "text": "Goods not arrived ---"
+  },
+  "Diecula": {
+    "line_nr": 7,
+    "text": "Goods not arrived; make enquiries"
+  },
+  "Diffamo": {
+    "line_nr": 9,
+    "text": "Goods not arrived; make enquiries. Am doing so here"
+  },
+  "Diffido": {
+    "line_nr": 10,
+    "text": "Goods not arrived; when did they leave"
+  },
+  "Diffuse": {
+    "line_nr": 12,
+    "text": "Goods not arrived; when did they leave, and how"
+  },
+  "Digero": {
+    "line_nr": 13,
+    "text": "Goods on order waiting remittance"
+  },
+  "Digestio": {
+    "line_nr": 14,
+    "text": "Have you received the goods sent by ---"
+  },
+  "Dignosco": {
+    "line_nr": 15,
+    "text": "Have you received the goods"
+  },
+  "Dijudico": {
+    "line_nr": 16,
+    "text": "Have you received the goods sent on the ---"
+  },
+  "Dilamino": {
+    "line_nr": 17,
+    "text": "Guarantee must be given"
+  },
+  "Dilapsus": {
+    "line_nr": 18,
+    "text": "The quality must be guaranteed"
+  },
+  "Dilorico": {
+    "line_nr": 19,
+    "text": "Who will guarantee us"
+  },
+  "Dilutium": {
+    "line_nr": 20,
+    "text": "Will guarantee to the extent of ---"
+  },
+  "Dimadeo": {
+    "line_nr": 21,
+    "text": "Will you guarantee ---"
+  },
+  "Dimidius": {
+    "line_nr": 22,
+    "text": "Happy New Year"
+  },
+  "Diminuo": {
+    "line_nr": 23,
+    "text": "Happy New Year to all"
+  },
+  "Dimotus": {
+    "line_nr": 24,
+    "text": "Happy New Year to all at home"
+  },
+  "Dionysia": {
+    "line_nr": 27,
+    "text": "Amputation is considered necessary"
+  },
+  "Diota": {
+    "line_nr": 28,
+    "text": "Amputation is considered unnecessary"
+  },
+  "Diphris": {
+    "line_nr": 29,
+    "text": "Attack is considered serious"
+  },
+  "Diploma": {
+    "line_nr": 30,
+    "text": "Attack is considered not serious"
+  },
+  "Dipsacon": {
+    "line_nr": 31,
+    "text": "Attack is considered trifling"
+  },
+  "Dipsas": {
+    "line_nr": 33,
+    "text": "Has changed for the worse, but doctor gives hope"
+  }
+}
