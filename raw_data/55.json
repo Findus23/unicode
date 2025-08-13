@@ -1,0 +1,82 @@
+{
+  "Melligo": {
+    "line_nr": 4,
+    "text": "Letter last received was dated ---"
+  },
+  "Mellilla": {
+    "line_nr": 6,
+    "text": "Been obliged to leave before the arrival of your letter. Telegraph to ---"
+  },
+  "Mellinia": {
+    "line_nr": 10,
+    "text": "Been obliged to leave before the arrival of your letter. Write again to ---"
+  },
+  "Mellis": {
+    "line_nr": 10,
+    "text": "Do not forward any more letters. Keep them until my return"
+  },
+  "Mellitorum": {
+    "line_nr": 12,
+    "text": "Forward all letters until further instructions to ---"
+  },
+  "Mellitum": {
+    "line_nr": 14,
+    "text": "Forward my letters to-day to Poste Restante ---"
+  },
+  "Mello": {
+    "line_nr": 16,
+    "text": "Forward my letters to-day and to-morrow to Poste Restante ---"
+  },
+  "Mellorum": {
+    "line_nr": 18,
+    "text": "Forward my letters until further instructions to Poste Restante ---"
+  },
+  "Mellum": {
+    "line_nr": 22,
+    "text": "Forward my letters to-day to Poste Restante here"
+  },
+  "Melofolia": {
+    "line_nr": 22,
+    "text": "Forward my letters to-day and to-morrow to Poste Restante here"
+  },
+  "Melofoliam": {
+    "line_nr": 28,
+    "text": "Forward my letters until further instructions to Poste Restante here"
+  },
+  "Melomeli": {
+    "line_nr": 28,
+    "text": "Forward my letters to ---"
+  },
+  "Melopepo": {
+    "line_nr": 28,
+    "text": "Have received letter from ---"
+  },
+  "Membrana": {
+    "line_nr": 28,
+    "text": "Have not received letter from ---"
+  },
+  "Memento": {
+    "line_nr": 28,
+    "text": "Have not received your letter"
+  },
+  "Meminisse": {
+    "line_nr": 30,
+    "text": "Have not received any letter from you since ---"
+  },
+  "Memoris": {
+    "line_nr": 32,
+    "text": "Have not received any letter from you. Telegraph at once to ---"
+  },
+  "Memoratus": {
+    "line_nr": 34,
+    "text": "Have not received any letter from you. Write at once to ---"
+  },
+  "Memoro": {
+    "line_nr": 36,
+    "text": "Have you received my letter"
+  },
+  "Mendacis": {
+    "line_nr": 38,
+    "text": "Have you received my letter with enclosures"
+  }
+}

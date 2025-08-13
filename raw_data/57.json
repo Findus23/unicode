@@ -1,0 +1,74 @@
+{
+  "Mitra": {
+    "line_nr": 2,
+    "text": "Received your letter; order will be attended to"
+  },
+  "Mixtim": {
+    "line_nr": 4,
+    "text": "Received your letter; orders will be attended to at once"
+  },
+  "Mixtura": {
+    "line_nr": 6,
+    "text": "Received your letter; too busy to attend to matter"
+  },
+  "Mobilior": {
+    "line_nr": 7,
+    "text": "Received your letter; too unwell to write"
+  },
+  "Modestia": {
+    "line_nr": 9,
+    "text": "Received your letter; too unwell to attend to matter"
+  },
+  "Modius": {
+    "line_nr": 10,
+    "text": "Received your letter; will do as you wish"
+  },
+  "Modulate": {
+    "line_nr": 12,
+    "text": "Received your letter; will post you particulars of ---"
+  },
+  "Molimen": {
+    "line_nr": 13,
+    "text": "What is the date of the last letter"
+  },
+  "Molitura": {
+    "line_nr": 15,
+    "text": "Do your utmost to avoid litigation"
+  },
+  "Mollesca": {
+    "line_nr": 17,
+    "text": "Lose no time in the matter"
+  },
+  "Momentum": {
+    "line_nr": 18,
+    "text": "Do not lose an instant"
+  },
+  "Monedula": {
+    "line_nr": 19,
+    "text": "Do not lose an instant, but come at once"
+  },
+  "Monitor": {
+    "line_nr": 23,
+    "text": "Luggage has been left behind; enquire at the station"
+  },
+  "Monstro": {
+    "line_nr": 25,
+    "text": "Leave your luggage at the cloakroom to be called for"
+  },
+  "Montuosus": {
+    "line_nr": 26,
+    "text": "Send my luggage on to ---"
+  },
+  "Moralis": {
+    "line_nr": 27,
+    "text": "Send a conveyance to take the luggage"
+  },
+  "Morbidus": {
+    "line_nr": 28,
+    "text": "Will send a man to take charge of the luggage"
+  },
+  "Morbonia": {
+    "line_nr": 30,
+    "text": "Will lunch with you ---"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Inquiro": {
+    "line_nr": 3,
+    "text": "Counsel for the plaintiff has finished his cross-examination"
+  },
+  "Insanio": {
+    "line_nr": 5,
+    "text": "Counsel for the plaintiff has commenced his speech"
+  },
+  "Inscendo": {
+    "line_nr": 7,
+    "text": "Counsel for the plaintiff has finished his speech"
+  },
+  "Insciens": {
+    "line_nr": 9,
+    "text": "Counsel for the plaintiff has commenced calling his witnesses"
+  },
+  "Inscribo": {
+    "line_nr": 11,
+    "text": "Counsel for the plaintiff has finished calling his witnesses"
+  },
+  "Insculpo": {
+    "line_nr": 12,
+    "text": "Opinion of counsel is against them"
+  },
+  "Inseco": {
+    "line_nr": 13,
+    "text": "Opinion of counsel is against us"
+  },
+  "Insequor": {
+    "line_nr": 14,
+    "text": "Opinion of counsel is against you"
+  },
+  "Insertim": {
+    "line_nr": 15,
+    "text": "Opinion of counsel is in our favour"
+  },
+  "Inservio": {
+    "line_nr": 16,
+    "text": "Opinion of counsel is in their favour"
+  },
+  "Insidior": {
+    "line_nr": 17,
+    "text": "Opinion of counsel is in your favour"
+  },
+  "Insido": {
+    "line_nr": 18,
+    "text": "Retain as counsel on my behalf ---"
+  },
+  "Insignis": {
+    "line_nr": 19,
+    "text": "Defendant has retained as his counsel ---"
+  },
+  "Insimulo": {
+    "line_nr": 20,
+    "text": "Have retained as counsel on your behalf ---"
+  },
+  "Insisto": {
+    "line_nr": 21,
+    "text": "Plaintiff has retained as his counsel ---"
+  },
+  "Insolens": {
+    "line_nr": 22,
+    "text": "Case is in the list for hearing to-morrow"
+  },
+  "Insolida": {
+    "line_nr": 24,
+    "text": "Case is not in the list for hearing to-morrow"
+  },
+  "Inspergo": {
+    "line_nr": 25,
+    "text": "When will the case be in the list for hearing"
+  },
+  "Inspicio": {
+    "line_nr": 27,
+    "text": "Hearing of the case commenced to-day, adjourned until ---"
+  },
+  "Insterno": {
+    "line_nr": 29,
+    "text": "Hearing of the case commenced to-day, adjourned until to-morrow"
+  },
+  "Instillo": {
+    "line_nr": 31,
+    "text": "Hearing of the case concluded, judgment reserved"
+  },
+  "Instruo": {
+    "line_nr": 33,
+    "text": "Hearing of the case concluded, jury have retired"
+  },
+  "Insuasum": {
+    "line_nr": 34,
+    "text": "Hearing of the case will be concluded to-day"
+  },
+  "Insula": {
+    "line_nr": 36,
+    "text": "Hearing of the case will be concluded to-morrow"
+  }
+}

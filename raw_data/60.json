@@ -1,0 +1,130 @@
+{
+  "Necesse": {
+    "line_nr": 1,
+    "text": "Marriage takes place March"
+  },
+  "Necessum": {
+    "line_nr": 2,
+    "text": "Marriage takes place April"
+  },
+  "Necnon": {
+    "line_nr": 3,
+    "text": "Marriage takes place May"
+  },
+  "Nectarea": {
+    "line_nr": 4,
+    "text": "Marriage takes place June"
+  },
+  "Necubi": {
+    "line_nr": 5,
+    "text": "Marriage takes place July"
+  },
+  "Necunde": {
+    "line_nr": 6,
+    "text": "Marriage takes place August"
+  },
+  "Nefandus": {
+    "line_nr": 7,
+    "text": "Marriage takes place September"
+  },
+  "Nefarie": {
+    "line_nr": 8,
+    "text": "Marriage takes place October"
+  },
+  "Nefarius": {
+    "line_nr": 9,
+    "text": "Marriage takes place November"
+  },
+  "Nefas": {
+    "line_nr": 10,
+    "text": "Marriage takes place December"
+  },
+  "Nefastus": {
+    "line_nr": 11,
+    "text": "Marriage will not take place"
+  },
+  "Negantia": {
+    "line_nr": 13,
+    "text": "Marriage will not take place; particulars by letter"
+  },
+  "Negatio": {
+    "line_nr": 14,
+    "text": "Married to-day"
+  },
+  "Negito": {
+    "line_nr": 15,
+    "text": "Married yesterday"
+  },
+  "Negligo": {
+    "line_nr": 16,
+    "text": "Medicine not arrived"
+  },
+  "Negotium": {
+    "line_nr": 17,
+    "text": "Medicine not arrived, send at once"
+  },
+  "Nepeta": {
+    "line_nr": 18,
+    "text": "Medicine wanted immediately"
+  },
+  "Nepos": {
+    "line_nr": 19,
+    "text": "Meet me at ---"
+  },
+  "Neptis": {
+    "line_nr": 20,
+    "text": "Meet me at 1 o'clock at ---"
+  },
+  "Nequam": {
+    "line_nr": 21,
+    "text": "Meet me at 1.30 at ---"
+  },
+  "Neque": {
+    "line_nr": 22,
+    "text": "Meet me at 2 at ---"
+  },
+  "Nequid": {
+    "line_nr": 23,
+    "text": "Meet me at 2.30 at ---"
+  },
+  "Nequities": {
+    "line_nr": 24,
+    "text": "Meet me at 3 at ---"
+  },
+  "Nervose": {
+    "line_nr": 25,
+    "text": "Meet me at 3.30 at ---"
+  },
+  "Nervosus": {
+    "line_nr": 26,
+    "text": "Meet me at 4 at ---"
+  },
+  "Nervulus": {
+    "line_nr": 27,
+    "text": "Meet me at 4.30 at ---"
+  },
+  "Nescio": {
+    "line_nr": 28,
+    "text": "Meet me at 5 at ---"
+  },
+  "Nescius": {
+    "line_nr": 29,
+    "text": "Meet me at 5.30 at ---"
+  },
+  "Neuradis": {
+    "line_nr": 30,
+    "text": "Meet me at 6 at ---"
+  },
+  "Neuricus": {
+    "line_nr": 31,
+    "text": "Meet me at 6.30 at ---"
+  },
+  "Neutro": {
+    "line_nr": 32,
+    "text": "Meet me at 7 at ---"
+  },
+  "Nexilis": {
+    "line_nr": 33,
+    "text": "Meet me at 7.30 at ---"
+  }
+}

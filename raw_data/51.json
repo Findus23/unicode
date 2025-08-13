@@ -1,0 +1,110 @@
+{
+  "Ingruo": {
+    "line_nr": 1,
+    "text": "Leaving on the 26th by the Steamship ---"
+  },
+  "Inhabito": {
+    "line_nr": 2,
+    "text": "Leaving on the 27th by the Steamship ---"
+  },
+  "Inhorreo": {
+    "line_nr": 3,
+    "text": "Leaving on the 28th by the Steamship ---"
+  },
+  "Inhumo": {
+    "line_nr": 4,
+    "text": "Leaving on the 29th by the Steamship ---"
+  },
+  "Inimico": {
+    "line_nr": 5,
+    "text": "Leaving on the 30th by the Steamship ---"
+  },
+  "Inique": {
+    "line_nr": 6,
+    "text": "Leaving on the 31st by the Steamship ---"
+  },
+  "Initio": {
+    "line_nr": 8,
+    "text": "Appeal has been allowed, costs in the cause"
+  },
+  "Injectio": {
+    "line_nr": 9,
+    "text": "Appeal has been allowed, with costs"
+  },
+  "Injungo": {
+    "line_nr": 10,
+    "text": "Appeal has been dismissed, costs in the cause"
+  },
+  "Injura": {
+    "line_nr": 11,
+    "text": "Appeal has been dismissed, with costs"
+  },
+  "Injussus": {
+    "line_nr": 12,
+    "text": "Attorney for the defendant is ---"
+  },
+  "Injuste": {
+    "line_nr": 13,
+    "text": "Attorney for the plaintiff is ---"
+  },
+  "Innato": {
+    "line_nr": 14,
+    "text": "Attorney on the other side is ---"
+  },
+  "Innitor": {
+    "line_nr": 15,
+    "text": "Who is the attorney for ---"
+  },
+  "Innocens": {
+    "line_nr": 16,
+    "text": "Who is the attorney for the defendant"
+  },
+  "Innovo": {
+    "line_nr": 17,
+    "text": "Who is the attorney for the plaintiff"
+  },
+  "Innoxius": {
+    "line_nr": 18,
+    "text": "Who is the attorney on the other side"
+  },
+  "Innuptus": {
+    "line_nr": 19,
+    "text": "Bail has been accepted"
+  },
+  "Innutrio": {
+    "line_nr": 20,
+    "text": "Bail has been refused"
+  },
+  "Inocco": {
+    "line_nr": 21,
+    "text": "Bail is required for ---"
+  },
+  "Inoculo": {
+    "line_nr": 23,
+    "text": "Counsel for the defendant has commenced his cross-examination"
+  },
+  "Inodorus": {
+    "line_nr": 25,
+    "text": "Counsel for the defendant has finished his cross-examination"
+  },
+  "Inopaco": {
+    "line_nr": 27,
+    "text": "Counsel for the defendant has commenced his speech"
+  },
+  "Inopinus": {
+    "line_nr": 29,
+    "text": "Counsel for the defendant has finished his speech"
+  },
+  "Inoratus": {
+    "line_nr": 31,
+    "text": "Counsel for the defendant has commenced calling his witnesses"
+  },
+  "Inornate": {
+    "line_nr": 33,
+    "text": "Counsel for the defendant has finished calling his witnesses"
+  },
+  "Inquam": {
+    "line_nr": 35,
+    "text": "Counsel for the plaintiff has commenced his cross-examination"
+  }
+}

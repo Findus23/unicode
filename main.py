@@ -26,7 +26,7 @@ class TextChunk:
     @property
     def text_str(self) -> str:
         def clean(text: str) -> str:
-            if text in ["-", "―"]:
+            if text in ["-", "―","-----"]:
                 return "---"
             # if text in ["."]:
             #     return ""
@@ -97,7 +97,7 @@ def rotate_bbox(bbox, page_center, angle):
 
 
 angle = 0
-# angle = 0.7
+# angle = -0.5
 
 
 def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = False):

@@ -1,0 +1,130 @@
+{
+  "Myscus": {
+    "line_nr": 1,
+    "text": "Will you lunch with me on Thursday at ---"
+  },
+  "Myxa": {
+    "line_nr": 2,
+    "text": "Will you lunch with me on Friday at ---"
+  },
+  "Nablium": {
+    "line_nr": 3,
+    "text": "Will you lunch with me on Saturday at ---"
+  },
+  "Nactus": {
+    "line_nr": 4,
+    "text": "Will you lunch with me on Sunday at ---"
+  },
+  "Nanus": {
+    "line_nr": 5,
+    "text": "Machine has arrived"
+  },
+  "Nape": {
+    "line_nr": 6,
+    "text": "Machine has arrived, and works well"
+  },
+  "Naphtha": {
+    "line_nr": 7,
+    "text": "Machine has arrived, but works badly"
+  },
+  "Napina": {
+    "line_nr": 8,
+    "text": "Machinery out of order, delay will be great"
+  },
+  "Nardinus": {
+    "line_nr": 9,
+    "text": "Many happy returns of the day"
+  },
+  "Nardum": {
+    "line_nr": 10,
+    "text": "How many did you send"
+  },
+  "Narrator": {
+    "line_nr": 11,
+    "text": "How many do you want"
+  },
+  "Narratus": {
+    "line_nr": 12,
+    "text": "Market fully supplied"
+  },
+  "Narro": {
+    "line_nr": 13,
+    "text": "Market fully supplied, prospects bad"
+  },
+  "Narthex": {
+    "line_nr": 14,
+    "text": "Market glutted, prospects very bad"
+  },
+  "Nascor": {
+    "line_nr": 15,
+    "text": "Market very flat"
+  },
+  "Nasum": {
+    "line_nr": 16,
+    "text": "Marriage has been arranged between"
+  },
+  "Nasutus": {
+    "line_nr": 17,
+    "text": "Marriage is announced of ---"
+  },
+  "Natalis": {
+    "line_nr": 18,
+    "text": "Marriage postponed in consequence of ---"
+  },
+  "Natatio": {
+    "line_nr": 19,
+    "text": "Marriage postponed indefinitely"
+  },
+  "Natator": {
+    "line_nr": 20,
+    "text": "Marriage postponed, particulars by letter"
+  },
+  "Nativus": {
+    "line_nr": 21,
+    "text": "Marriage postponed until ---"
+  },
+  "Natta": {
+    "line_nr": 22,
+    "text": "Marriage takes place at ---"
+  },
+  "Naulium": {
+    "line_nr": 23,
+    "text": "Marriage takes place on ---"
+  },
+  "Nauplius": {
+    "line_nr": 24,
+    "text": "Marriage takes place on Monday"
+  },
+  "Nausea": {
+    "line_nr": 25,
+    "text": "Marriage takes place on Tuesday"
+  },
+  "Nauseola": {
+    "line_nr": 26,
+    "text": "Marriage takes place on Wednesday"
+  },
+  "Nauticus": {
+    "line_nr": 27,
+    "text": "Marriage takes place on Thursday"
+  },
+  "Naviger": {
+    "line_nr": 28,
+    "text": "Marriage takes place on Friday"
+  },
+  "Navigium": {
+    "line_nr": 29,
+    "text": "Marriage takes place on Saturday"
+  },
+  "Navigo": {
+    "line_nr": 30,
+    "text": "Marriage takes place on Sunday"
+  },
+  "Navorum": {
+    "line_nr": 31,
+    "text": "Marriage takes place January"
+  },
+  "Nebritis": {
+    "line_nr": 32,
+    "text": "Marriage takes place February"
+  }
+}

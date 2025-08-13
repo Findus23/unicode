@@ -1,0 +1,114 @@
+{
+  "Margaris": {
+    "line_nr": 2,
+    "text": "Summons heard to-day. Referred to judge in chambers"
+  },
+  "Margino": {
+    "line_nr": 3,
+    "text": "Verdict against us"
+  },
+  "Marinus": {
+    "line_nr": 4,
+    "text": "Verdict for ---"
+  },
+  "Masculus": {
+    "line_nr": 5,
+    "text": "Verdict for the defendant, with costs"
+  },
+  "Maspetum": {
+    "line_nr": 6,
+    "text": "Verdict for the defendant, without costs"
+  },
+  "Mastigia": {
+    "line_nr": 7,
+    "text": "Verdict for the plaintiff, damages ---"
+  },
+  "Mastruca": {
+    "line_nr": 8,
+    "text": "Verdict for the plaintiff, with costs"
+  },
+  "Matellio": {
+    "line_nr": 9,
+    "text": "Verdict for the plaintiff, without costs"
+  },
+  "Mater": {
+    "line_nr": 10,
+    "text": "Verdict in our favour"
+  },
+  "Maternus": {
+    "line_nr": 11,
+    "text": "Verdict of guilty . Sentence ---"
+  },
+  "Matralia": {
+    "line_nr": 12,
+    "text": "Verdict of guilty. Sentence deferred"
+  },
+  "Matrimus": {
+    "line_nr": 13,
+    "text": "Verdict of manslaughter. Sentence ---"
+  },
+  "Mature": {
+    "line_nr": 14,
+    "text": "Verdict of manslaughter. Sentence deferred"
+  },
+  "Maxilla": {
+    "line_nr": 15,
+    "text": "Verdict of not guilty"
+  },
+  "Maxime": {
+    "line_nr": 16,
+    "text": "Verdict of not proven"
+  },
+  "Meatus": {
+    "line_nr": 17,
+    "text": "Verdict of temporary insanity"
+  },
+  "Mecastor": {
+    "line_nr": 18,
+    "text": "Verdict of wilful murder"
+  },
+  "Meconis": {
+    "line_nr": 19,
+    "text": "Witnesses must be in attendance on ---"
+  },
+  "Medianus": {
+    "line_nr": 21,
+    "text": "Your attendance in court as witness is required ---"
+  },
+  "Medicina": {
+    "line_nr": 22,
+    "text": "Writ has been issued as requested"
+  },
+  "Medicus": {
+    "line_nr": 23,
+    "text": "Writ has been served on all the defendants"
+  },
+  "Meditor": {
+    "line_nr": 24,
+    "text": "Writ has been served on the defendant"
+  },
+  "Medium": {
+    "line_nr": 26,
+    "text": "Writ has not yet been served on the defendant"
+  },
+  "Megalium": {
+    "line_nr": 28,
+    "text": "Have obtained order for substituted service of writ"
+  },
+  "Melampus": {
+    "line_nr": 30,
+    "text": "Length is ---"
+  },
+  "Melania": {
+    "line_nr": 31,
+    "text": "What is the length of ---"
+  },
+  "Melitites": {
+    "line_nr": 32,
+    "text": "Let on the terms agreed the ---"
+  },
+  "Mellifer": {
+    "line_nr": 33,
+    "text": "Let on the terms named the ---"
+  }
+}
