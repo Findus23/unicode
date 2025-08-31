@@ -1,0 +1,130 @@
+{
+  "Ofella": {
+    "line_nr": 1,
+    "text": "Patterns are suitable, but material too dear"
+  },
+  "Offatim": {
+    "line_nr": 2,
+    "text": "Patterns are not suitable"
+  },
+  "Offectus": {
+    "line_nr": 3,
+    "text": "Can supply that pattern in ---"
+  },
+  "Officina": {
+    "line_nr": 4,
+    "text": "Have you more of the same pattern in stock"
+  },
+  "Officiose": {
+    "line_nr": 5,
+    "text": "Have you much of the same pattern in stock"
+  },
+  "Officium": {
+    "line_nr": 7,
+    "text": "How soon can you supply more of the same pattern"
+  },
+  "Offlecto": {
+    "line_nr": 8,
+    "text": "No more of the same pattern in stock"
+  },
+  "Offucia": {
+    "line_nr": 9,
+    "text": "Not much of the same pattern in stock"
+  },
+  "Offula": {
+    "line_nr": 10,
+    "text": "Plenty of the same pattern in stock"
+  },
+  "Offundo": {
+    "line_nr": 11,
+    "text": "Price of that pattern better quality is ---"
+  },
+  "Offusus": {
+    "line_nr": 12,
+    "text": "Price of that pattern lower quality is ---"
+  },
+  "Oggero": {
+    "line_nr": 13,
+    "text": "Price of that pattern same quality is ---"
+  },
+  "Oleaceus": {
+    "line_nr": 14,
+    "text": "Quote price of pattern sent in better quality"
+  },
+  "Oleaster": {
+    "line_nr": 15,
+    "text": "Quote price of pattern sent in lower quality"
+  },
+  "Oleitas": {
+    "line_nr": 16,
+    "text": "Send at once a selection of patterns"
+  },
+  "Oleosus": {
+    "line_nr": 17,
+    "text": "Pay on our account"
+  },
+  "Oletum": {
+    "line_nr": 18,
+    "text": "Cannot pay"
+  },
+  "Olfactus": {
+    "line_nr": 19,
+    "text": "Cannot pay at present"
+  },
+  "Olidus": {
+    "line_nr": 20,
+    "text": "Do not pay"
+  },
+  "Olitor": {
+    "line_nr": 21,
+    "text": "Do not pay at present"
+  },
+  "Olivetum": {
+    "line_nr": 22,
+    "text": "How do you propose to pay"
+  },
+  "Olivina": {
+    "line_nr": 23,
+    "text": "How much is there to pay"
+  },
+  "Olivum": {
+    "line_nr": 24,
+    "text": "Refuses to pay"
+  },
+  "Ollaris": {
+    "line_nr": 25,
+    "text": "Will pay by instalments"
+  },
+  "Olorifer": {
+    "line_nr": 26,
+    "text": "Payment must be made against delivery"
+  },
+  "Olorinus": {
+    "line_nr": 27,
+    "text": "Payment must be made with order"
+  },
+  "Olus": {
+    "line_nr": 28,
+    "text": "Have sold for prompt payment"
+  },
+  "Olyra": {
+    "line_nr": 29,
+    "text": "How is payment to be made"
+  },
+  "Omasum": {
+    "line_nr": 30,
+    "text": "Permission cannot be obtained"
+  },
+  "Ombria": {
+    "line_nr": 31,
+    "text": "Permission has been obtained"
+  },
+  "Omen": {
+    "line_nr": 32,
+    "text": "I give permission"
+  },
+  "Omentum": {
+    "line_nr": 33,
+    "text": "I will not give permission"
+  }
+}

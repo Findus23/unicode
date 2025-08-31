@@ -26,7 +26,7 @@ class TextChunk:
     @property
     def text_str(self) -> str:
         def clean(text: str) -> str:
-            if text in ["-", "―","-----"]:
+            if text in ["-", "―","—","-----"]:
                 return "---"
             # if text in ["."]:
             #     return ""
@@ -97,7 +97,7 @@ def rotate_bbox(bbox, page_center, angle):
 
 
 angle = 0
-# angle = -0.5
+# angle = 0.4
 
 
 def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = False):
@@ -171,6 +171,18 @@ def extract_page(page_nr: int, starting_letters: frozenset[str], debug: bool = F
         else:
             out_data[matching_code]["chunks"] = [c]
         out_data[matching_code]["text"] = " ".join(map(lambda c: c.text_str, out_data[matching_code]["chunks"]))
+
+    # per string post-processing
+    for k in sorted(out_data.keys()):
+        try:
+            text=out_data[k]["text"]
+            if text.endswith(" ."):
+                text = text[:-2]
+                out_data[k]["text"] = text
+            if text.endswith("."):
+                print("ends with .:",text)
+        except KeyError:
+            continue
 
     # print(chunks)
     for d in out_data.values():

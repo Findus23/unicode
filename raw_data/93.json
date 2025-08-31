@@ -1,0 +1,94 @@
+{
+  "Scrinium": {
+    "line_nr": 2,
+    "text": "Have missed train, send conveyance to meet me at ---"
+  },
+  "Scriptio": {
+    "line_nr": 3,
+    "text": "Have missed train, shall arrive later"
+  },
+  "Scrofula": {
+    "line_nr": 5,
+    "text": "Have missed train, unable to keep appointment"
+  },
+  "Scutatus": {
+    "line_nr": 6,
+    "text": "Have missed train, wait for me until ---"
+  },
+  "Scutella": {
+    "line_nr": 7,
+    "text": "Have missed train, wait until I arrive"
+  },
+  "Scutica": {
+    "line_nr": 9,
+    "text": "Have missed train, will come by first in the morning"
+  },
+  "Scyphus": {
+    "line_nr": 10,
+    "text": "Leaving by train arriving at ---"
+  },
+  "Scyricum": {
+    "line_nr": 12,
+    "text": "Leaving by train arriving at Cannon Street Station at ---"
+  },
+  "Scytala": {
+    "line_nr": 14,
+    "text": "Leaving by train arriving at Charing Cross Station at ---"
+  },
+  "Scythica": {
+    "line_nr": 15,
+    "text": "Leaving by train arriving at Euston at ---"
+  },
+  "Secedo": {
+    "line_nr": 17,
+    "text": "Leaving by train arriving at Fenchurch Street at ---"
+  },
+  "Secessio": {
+    "line_nr": 19,
+    "text": "Leaving by train arriving at Holborn Viaduct a ---t"
+  },
+  "Secius": {
+    "line_nr": 20,
+    "text": "Leaving bytrain arriving at King's Cross at ---"
+  },
+  "Secludo": {
+    "line_nr": 22,
+    "text": "Leaving by train arriving at Liverpool Street at ---"
+  },
+  "Secretio": {
+    "line_nr": 24,
+    "text": "Leaving by train arriving at London Bridge at ---"
+  },
+  "Secundum": {
+    "line_nr": 25,
+    "text": "Leaving by train arriving at Paddington at ---"
+  },
+  "Sedecula": {
+    "line_nr": 27,
+    "text": "Leaving by train arriving at St. Pancras at ---"
+  },
+  "Seduco": {
+    "line_nr": 28,
+    "text": "Leaving by train arriving at Victoria at ---"
+  },
+  "Segestre": {
+    "line_nr": 30,
+    "text": "Leaving by train arriving at Waterloo at ---"
+  },
+  "Segnipes": {
+    "line_nr": 31,
+    "text": "Leaving by train due at ---"
+  },
+  "Segnis": {
+    "line_nr": 32,
+    "text": "Leaving by train, meet me at ---"
+  },
+  "Segnitia": {
+    "line_nr": 33,
+    "text": "Leaving by train, meet me at station at ---"
+  },
+  "Segrego": {
+    "line_nr": 35,
+    "text": "Leaving by train, send carriage to meet me at ---"
+  }
+}

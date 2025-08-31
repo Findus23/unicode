@@ -1,0 +1,106 @@
+{
+  "Septicus": {
+    "line_nr": 2,
+    "text": "Wait for me at ---"
+  },
+  "Sereno": {
+    "line_nr": 3,
+    "text": "Wait for me this evening"
+  },
+  "Sergia": {
+    "line_nr": 4,
+    "text": "Wait for me this evening, will call"
+  },
+  "Seriola": {
+    "line_nr": 5,
+    "text": "Wait my arrival"
+  },
+  "Serius": {
+    "line_nr": 6,
+    "text": "Wait my letter before starting"
+  },
+  "Serratim": {
+    "line_nr": 7,
+    "text": "Wait my letter before taking any action"
+  },
+  "Sesqui": {
+    "line_nr": 8,
+    "text": "Wait my telegram before starting"
+  },
+  "Sessito": {
+    "line_nr": 9,
+    "text": "Wait my telegram before taking any action"
+  },
+  "Sestiana": {
+    "line_nr": 10,
+    "text": "Wait until you hear further before ---"
+  },
+  "Setanium": {
+    "line_nr": 11,
+    "text": "Wait until you receive my letter"
+  },
+  "Setosus": {
+    "line_nr": 13,
+    "text": "Am waiting here for a letter from you before starting"
+  },
+  "Sevoco": {
+    "line_nr": 15,
+    "text": "Am waiting here for a telegram from you before starting"
+  },
+  "Sexatruus": {
+    "line_nr": 16,
+    "text": "Weather too unfavourable"
+  },
+  "Sextiana": {
+    "line_nr": 17,
+    "text": "Weather too unfavourable, do not come"
+  },
+  "Sextula": {
+    "line_nr": 18,
+    "text": "Weather too unfavourable, must postpone ---"
+  },
+  "Sexus": {
+    "line_nr": 19,
+    "text": "Weather too unfavourable, return by rail"
+  },
+  "Siccanus": {
+    "line_nr": 21,
+    "text": "Weather too unfavourable, returning by next train"
+  },
+  "Siccine": {
+    "line_nr": 22,
+    "text": "Weather too unfavourable to put to sea"
+  },
+  "Siderior": {
+    "line_nr": 24,
+    "text": "Weather too unfavourable to put to sea, will telegraph departure"
+  },
+  "Sido": {
+    "line_nr": 25,
+    "text": "Weather too unfavourable to start to-day"
+  },
+  "Sigma": {
+    "line_nr": 26,
+    "text": "Weather very fine"
+  },
+  "Signifer": {
+    "line_nr": 27,
+    "text": "Weather very fine, excursion to-day"
+  },
+  "Signinus": {
+    "line_nr": 28,
+    "text": "Weather very fine, sea quite smooth"
+  },
+  "Signum": {
+    "line_nr": 29,
+    "text": "Weather very fine, shall expect you ---"
+  },
+  "Silaceus": {
+    "line_nr": 31,
+    "text": "Weather very fine, shall expect you this morning"
+  },
+  "Siliqua": {
+    "line_nr": 33,
+    "text": "Weather very fine, shall expect you this afternoon"
+  }
+}

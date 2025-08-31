@@ -1,0 +1,106 @@
+{
+  "Resectus": {
+    "line_nr": 2,
+    "text": "Have sent by London, Brighton , and South Coast Railway Co."
+  },
+  "Resedo": {
+    "line_nr": 4,
+    "text": "Have sent by London, Chatham, and Dover Railway Co."
+  },
+  "Resegmen": {
+    "line_nr": 6,
+    "text": "Have sent by London and North-Western Railway Co."
+  },
+  "Resemino": {
+    "line_nr": 8,
+    "text": "Have sent by London and South-Western Railway Co."
+  },
+  "Resequor": {
+    "line_nr": 9,
+    "text": "Have sent by Midland Railway Co."
+  },
+  "Reservo": {
+    "line_nr": 10,
+    "text": "Have sent by South-Eastern Railway Co."
+  },
+  "Residuus": {
+    "line_nr": 12,
+    "text": "Will you take service for me on ---"
+  },
+  "Resignat": {
+    "line_nr": 13,
+    "text": "Will you take service for me on Sunday"
+  },
+  "Resilio": {
+    "line_nr": 14,
+    "text": "Will you take service for me to-morrow"
+  },
+  "Resistit": {
+    "line_nr": 16,
+    "text": "Cannot settle at present, will do so shortly"
+  },
+  "Resolvo": {
+    "line_nr": 17,
+    "text": "Everything settled, return at once"
+  },
+  "Resonus": {
+    "line_nr": 19,
+    "text": "Everything settled, telegraph when you will come"
+  },
+  "Resorbeo": {
+    "line_nr": 20,
+    "text": "Settlement arrived at satisfactorily"
+  },
+  "Resorpsi": {
+    "line_nr": 21,
+    "text": "Settlement is impossible"
+  },
+  "Respergo": {
+    "line_nr": 22,
+    "text": "Settlement must be come to"
+  },
+  "Respiro": {
+    "line_nr": 23,
+    "text": "Settlement must be come to immediately"
+  },
+  "Restagno": {
+    "line_nr": 24,
+    "text": "Settlement must be come to by ---"
+  },
+  "Restillo": {
+    "line_nr": 25,
+    "text": "Ship is detained in quarantine"
+  },
+  "Restiti": {
+    "line_nr": 26,
+    "text": "Ship is detained in port"
+  },
+  "Restringo": {
+    "line_nr": 27,
+    "text": "Ship is due on the ---"
+  },
+  "Resudo": {
+    "line_nr": 28,
+    "text": "Ship is just leaving port"
+  },
+  "Resulto": {
+    "line_nr": 29,
+    "text": "Ship sailed from here on the ---"
+  },
+  "Resupino": {
+    "line_nr": 30,
+    "text": "Ship will sail on the ---"
+  },
+  "Resurgo": {
+    "line_nr": 31,
+    "text": "What is the name of the ship"
+  },
+  "Retardo": {
+    "line_nr": 32,
+    "text": "When did the ship arrive"
+  },
+  "Retectus": {
+    "line_nr": 33,
+    "text": "When was the ship last heard of"
+  }
+}

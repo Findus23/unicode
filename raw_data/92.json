@@ -1,0 +1,114 @@
+{
+  "Saxifer": {
+    "line_nr": 1,
+    "text": "There ought to be"
+  },
+  "Scaber": {
+    "line_nr": 2,
+    "text": "There ought not to be"
+  },
+  "Scabres": {
+    "line_nr": 3,
+    "text": "There will be"
+  },
+  "Scala": {
+    "line_nr": 4,
+    "text": "There will not be"
+  },
+  "Scalprum": {
+    "line_nr": 5,
+    "text": "Time has already expired"
+  },
+  "Scambus": {
+    "line_nr": 6,
+    "text": "Time is too long"
+  },
+  "Scamnum": {
+    "line_nr": 7,
+    "text": "Time is too short"
+  },
+  "Scando": {
+    "line_nr": 9,
+    "text": "Time must be made the essence of the contract"
+  },
+  "Scansilis": {
+    "line_nr": 10,
+    "text": "Time will expire on the ---"
+  },
+  "Scarifico": {
+    "line_nr": 11,
+    "text": "Can you alter the time to ---"
+  },
+  "Scarites": {
+    "line_nr": 12,
+    "text": "Can you extend the time for ---"
+  },
+  "Scatebra": {
+    "line_nr": 13,
+    "text": "Shall I be in time for ---"
+  },
+  "Scena": {
+    "line_nr": 14,
+    "text": "There is not sufficient time"
+  },
+  "Scheda": {
+    "line_nr": 15,
+    "text": "There will be plenty of time"
+  },
+  "Schidius": {
+    "line_nr": 16,
+    "text": "What is the latest time for ---"
+  },
+  "Schiston": {
+    "line_nr": 17,
+    "text": "Too long to telegraph details, am writing fully"
+  },
+  "Scholium": {
+    "line_nr": 18,
+    "text": "Have missed train"
+  },
+  "Scienter": {
+    "line_nr": 20,
+    "text": "Have missed train, cannot arrive in time for ---"
+  },
+  "Scilicet": {
+    "line_nr": 21,
+    "text": "Have missed train, cannot arrive this evening"
+  },
+  "Scincus": {
+    "line_nr": 21,
+    "text": "Have missed train, cannot arrive until ---"
+  },
+  "Scio": {
+    "line_nr": 22,
+    "text": "Have missed train, do not expect me"
+  },
+  "Scirpeus": {
+    "line_nr": 24,
+    "text": "Have missed train, impossible to be home before ---"
+  },
+  "Scirroma": {
+    "line_nr": 26,
+    "text": "Have missed train, impossible to be with you to-night"
+  },
+  "Scloppus": {
+    "line_nr": 27,
+    "text": "Have missed train, make other arrangements"
+  },
+  "Scobina": {
+    "line_nr": 28,
+    "text": "Have missed train, postpone meeting"
+  },
+  "Scolymos": {
+    "line_nr": 29,
+    "text": "Have missed train , postpone meeting until ---"
+  },
+  "Scombrus": {
+    "line_nr": 30,
+    "text": "Have missed train, remaining here to-night"
+  },
+  "Screatus": {
+    "line_nr": 32,
+    "text": "Have missed train, send carriage to meet me at ---"
+  }
+}

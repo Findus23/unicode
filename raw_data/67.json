@@ -1,0 +1,106 @@
+{
+  "Obtestor": {
+    "line_nr": 1,
+    "text": "Option will be given for ---"
+  },
+  "Obtorpeo": {
+    "line_nr": 2,
+    "text": "Option will be given until ---"
+  },
+  "Obtortus": {
+    "line_nr": 3,
+    "text": "Cannot give option"
+  },
+  "Obtrudo": {
+    "line_nr": 5,
+    "text": "Order cannot be executed"
+  },
+  "Obtrunco": {
+    "line_nr": 6,
+    "text": "Order cannot be executed until ---"
+  },
+  "Obumbro": {
+    "line_nr": 8,
+    "text": "Order executed before your telegram arrived"
+  },
+  "Obuncus": {
+    "line_nr": 9,
+    "text": "Order is already executed"
+  },
+  "Obvagio": {
+    "line_nr": 10,
+    "text": "All your orders have been executed"
+  },
+  "Obversor": {
+    "line_nr": 11,
+    "text": "Am without orders"
+  },
+  "Obverto": {
+    "line_nr": 12,
+    "text": "Cannot accept your order for ---"
+  },
+  "Obvertunto": {
+    "line_nr": 14,
+    "text": "Have received your order. Goods will be despatched to-day"
+  },
+  "Obvigilat": {
+    "line_nr": 16,
+    "text": "Have received your order. Goods will be despatched to-morrow"
+  },
+  "Obvigilavi": {
+    "line_nr": 18,
+    "text": "Have received your order. Goods will be despatched this week"
+  },
+  "Obvigilo": {
+    "line_nr": 20,
+    "text": "Have received your order. Goods will be despatched next week"
+  },
+  "Obviam": {
+    "line_nr": 22,
+    "text": "Have received your order. Goods will be despatched in --- weeks"
+  },
+  "Obvius": {
+    "line_nr": 23,
+    "text": "Have you executed our last order"
+  },
+  "Obvolvo": {
+    "line_nr": 24,
+    "text": "Is not according to order"
+  },
+  "Obvolvunt": {
+    "line_nr": 26,
+    "text": "Reply by post when you will despatch our order of ---"
+  },
+  "Occallatus": {
+    "line_nr": 28,
+    "text": "Reply by telegram when you will despatch our order of ---"
+  },
+  "Occalleo": {
+    "line_nr": 29,
+    "text": "This order is in addition to previous"
+  },
+  "Occanere": {
+    "line_nr": 30,
+    "text": "This order is in substitution of previous"
+  },
+  "Occano": {
+    "line_nr": 31,
+    "text": "This order must leave you on"
+  },
+  "Occasio": {
+    "line_nr": 32,
+    "text": "Wait cash before executing order"
+  },
+  "Occasiones": {
+    "line_nr": 33,
+    "text": "When is the earliest you can deliver order"
+  },
+  "Occasus": {
+    "line_nr": 34,
+    "text": "Will accept your order for ---"
+  },
+  "Occator": {
+    "line_nr": 35,
+    "text": "Your order is being executed"
+  }
+}
