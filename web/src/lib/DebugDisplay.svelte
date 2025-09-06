@@ -1,5 +1,5 @@
 <script lang="ts">
-    import {listOfData, meta} from "./data";
+    import {listOfData, meta} from "./bookdata";
 
     const meta_list = Object.entries(meta).map(([meta_key,meta_val]) => ({ meta_key,meta_val }));
     console.log(meta_list);

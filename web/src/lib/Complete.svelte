@@ -1,5 +1,5 @@
 <script lang="ts">
-    import {data_by_full_text, listOfData} from "./data";
+    import {listOfData} from "../data/bookdata";
     import MiniSearch from "minisearch";
 
     const values = listOfData;
@@ -30,7 +30,7 @@
             } else {
                 const results = miniSearch.search(inputValue, {
                     prefix: true,
-                    fuzzy:0.2
+                    fuzzy: 0.2
                 }).slice(0, 30);
                 console.info(results);
                 storageArr = results.map((a) => {
