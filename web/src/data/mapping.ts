@@ -1,5 +1,5 @@
-import {char_array} from "./data";
-import {bookdata_by_unicode, listOfData} from "./bookdata";
+import {char_array} from "./data"
+import {bookdata_by_unicode, listOfData} from "./bookdata"
 
 export function character_to_code(character: string) {
     // placeholder logic

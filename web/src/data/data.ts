@@ -1,4 +1,4 @@
-import {characters} from "./characters";
+import {characters} from "./characters"
 
 export const char_array = Array.from(characters)
 

@@ -1,23 +1,21 @@
 <script lang="ts">
-    import {listOfData} from "../data/bookdata";
+    import {bookdata_by_full_text, listOfData} from "../data/bookdata";
     import MiniSearch from "minisearch";
 
-    const values = listOfData;
+    const values = listOfData
 
     const miniSearch = new MiniSearch({
-        fields: ['full_text'],
-        storeFields: ['unicode_code', 'full_text'] // fields to return with search results
+        fields: ["full_text"],
+        storeFields: ["unicode_code", "full_text"]
     })
-    window.search = miniSearch;
     miniSearch.addAll(listOfData)
 
-    /* FILTERING countres DATA BASED ON INPUT */
-    let searchresults: SearchResult[] = [];
-    // $: console.log(filteredCountries)
+    let searchresults: SearchResult[] = []
 
     const filterCountries = () => {
-        let storageArr: SearchResult[] = [];
+        let storageArr: SearchResult[] = []
         if (inputValue) {
+            // eslint-disable-next-line no-constant-condition
             if (false) {
                 values.forEach(country => {
                     if (country.full_text.toLowerCase().includes(inputValue.toLowerCase())) {
@@ -26,52 +24,50 @@
                             data: country
                         });
                     }
-                });
+                })
             } else {
                 const results = miniSearch.search(inputValue, {
                     prefix: true,
                     fuzzy: 0.2
-                }).slice(0, 30);
-                console.info(results);
+                }).slice(0, 30)
+                console.info(results)
                 storageArr = results.map((a) => {
                     return {
-                        data: data_by_full_text[a.full_text],
+                        data: bookdata_by_full_text[a.full_text],
                         text: a.full_text
                     }
                 })
-                console.log(storageArr);
+                console.log(storageArr)
             }
 
         }
-        searchresults = storageArr;
+        searchresults = storageArr
     }
 
 
     /* HANDLING THE INPUT */
-    let searchInput; // use with bind:this to focus element
-    let inputValue = "";
+    let searchInput
+    let inputValue = ""
 
     $: if (!inputValue) {
-        searchresults = [];
-        hiLiteIndex = null;
+        searchresults = []
     }
 
     const clearInput = () => {
-        inputValue = "";
-        searchInput.focus();
+        inputValue = ""
+        searchInput.focus()
     }
 
     const setInputVal = (result: SearchResult) => {
-        inputValue = result.data.full_text;
-        searchresults = [];
-        hiLiteIndex = null;
-        document.querySelector('#country-input').focus();
+        inputValue = result.data.full_text
+        searchresults = []
+        document.querySelector("#country-input").focus()
     }
 
     const submitValue = () => {
         if (inputValue) {
-            console.log(`${inputValue} is submitted!`);
-            setTimeout(clearInput, 1000);
+            console.log(`${inputValue} is submitted!`)
+            setTimeout(clearInput, 1000)
         } else {
             alert("You didn't type anything.")
         }
@@ -79,31 +75,13 @@
 
     const makeMatchBold = (str: string) => {
         // replace part of (country name === inputValue) with strong tags
-        let matched = str.substring(0, inputValue.length);
-        let makeBold = `<strong>${matched}</strong>`;
-        let boldedMatch = str.replace(matched, makeBold);
-        return boldedMatch;
-    }
-    /* NAVIGATING OVER THE LIST OF COUNTRIES W HIGHLIGHTING */
-    let hiLiteIndex = null;
-    //$: console.log(hiLiteIndex);
-    $: hiLitedCountry = searchresults[hiLiteIndex];
-
-    const navigateList = (e) => {
-        if (e.key === "ArrowDown" && hiLiteIndex <= searchresults.length - 1) {
-            hiLiteIndex === null ? hiLiteIndex = 0 : hiLiteIndex += 1
-        } else if (e.key === "ArrowUp" && hiLiteIndex !== null) {
-            hiLiteIndex === 0 ? hiLiteIndex = searchresults.length - 1 : hiLiteIndex -= 1
-        } else if (e.key === "Enter") {
-            setInputVal(searchresults[hiLiteIndex]);
-        } else {
-            return;
-        }
+        let matched = str.substring(0, inputValue.length)
+        let makeBold = `<strong>${matched}</strong>`
+        let boldedMatch = str.replace(matched, makeBold)
+        return boldedMatch
     }
 </script>
 
-
-<svelte:window on:keydown={navigateList}/>
 
 <form autocomplete="off" on:submit|preventDefault={submitValue}>
     <div class="autocomplete">
@@ -119,12 +97,12 @@
 
     <!-- FILTERED LIST OF COUNTRIES -->
     {#if searchresults.length > 0}
-        <ul id="autocomplete-items-list">
-            {#each searchresults as result, i}
-                <li class="autocomplete-items" class:autocomplete-active={i === hiLiteIndex}
-                    on:click={() => setInputVal(result)}>{@html result.text}</li>
+        <div class="row">
+            {#each searchresults as result, i (result.text)}
+                <a class="card col-sm-6" href="#">
+                    {result.text}</a>
             {/each}
-        </ul>
+        </div>
     {/if}
 </form>
 

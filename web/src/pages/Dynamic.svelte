@@ -1,11 +1,11 @@
 <script lang="ts">
-    import {character_to_code, code_to_message} from "../data/mapping";
+    import {character_to_code, code_to_message} from "../data/mapping"
 
-    export let character: string = '';
+    export let character: string = ""
 
     // let code = character_to_code(slug)
-    $: code = character_to_code(character);
-    $: message = code_to_message(code);
+    $: code = character_to_code(character)
+    $: message = code_to_message(code)
 
 
 </script>

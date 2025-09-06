@@ -1,6 +1,6 @@
 <script lang="ts">
-    import {char_array} from "../data/data";
-    import {navigate} from "../router";
+    import {char_array} from "../data/data"
+    import {navigate} from "../router"
 
     console.log(char_array)
 </script>
@@ -9,7 +9,7 @@
 
 {#each char_array as char (char)}
     <div class="character">
-        <a href={"/"+char} on:click|preventDefault={() => navigate('/'+char)}>
+        <a href={"/"+char} on:click|preventDefault={() => navigate("/"+char)}>
 
 
             {char}
