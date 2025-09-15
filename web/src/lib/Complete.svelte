@@ -1,8 +1,8 @@
 <script lang="ts">
-    import {bookdata_by_full_text, listOfData} from "../data/bookdata";
-    import MiniSearch from "minisearch";
-    import {code_to_character} from "../data/mapping";
-    import {navigate} from "../router";
+    import {bookdata_by_full_text, listOfData} from "../data/bookdata"
+    import MiniSearch from "minisearch"
+    import {code_to_character} from "../data/mapping"
+    import {navigate} from "../router"
 
 
     const miniSearch = new MiniSearch({
@@ -13,7 +13,7 @@
 
     let searchresults: SearchResult[] = []
 
-    const filterCountries = () => {
+    const searchMessages = () => {
         let storageArr: SearchResult[] = []
         if (inputValue) {
             const results = miniSearch.search(inputValue, {
@@ -35,31 +35,40 @@
     }
 
 
-    /* HANDLING THE INPUT */
-    let searchInput
-    let inputValue = "when"
-    filterCountries()
+    const urlParams = new URLSearchParams(window.location.search)
+    const myParam = urlParams.get("q") || ""
+    let inputValue = myParam
+    searchMessages()
 
-    $: if (!inputValue) {
-        searchresults = []
+
+    function update_path(inputValue) {
+        if (inputValue) {
+            history.replaceState({}, "", "/?q=" + inputValue)
+        } else {
+            history.replaceState({}, "", "/")
+        }
     }
 
+    let timeoutId = null
+    const debounced_update_path = (inputValue: string) => {
+        window.clearTimeout(timeoutId)
+        timeoutId = window.setTimeout(() => {
+            update_path(inputValue)
+        }, 500)
+    }
 
-
+    $: debounced_update_path(inputValue)
 </script>
 
 
-<form autocomplete="off" on:submit|preventDefault={submitValue}>
+<form autocomplete="off" on:submit|preventDefault>
     <div class="autocomplete">
-        <input id="country-input"
+        <input id="search-input"
                type="text"
                placeholder="Your message"
-               bind:this={searchInput}
                bind:value={inputValue}
-               on:input={filterCountries}>
+               on:input={searchMessages}>
     </div>
-
-    <!--    <input type="submit">-->
 
     {#if searchresults.length > 0}
         <p>Select a message below</p>
