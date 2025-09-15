@@ -6,6 +6,7 @@
     import AllCharacters from "./pages/AllCharacters.svelte"
     import Dynamic from "./pages/Dynamic.svelte"
     import NotFound from "./pages/NotFound.svelte"
+    import {num_entries} from "./data/bookdata";
 
     type ComponentType = Home | About | AllCharacters | Dynamic | NotFound
 
@@ -70,6 +71,11 @@
         }
     })
 </script>
+<h1>Unicode</h1>
+<div id="tagline">Share any message using just a single character!<a href="#footnote"><sup>*</sup></a></div>
+
+
+
 
 <nav style="display:flex;gap:1rem;margin-bottom:1rem;">
     <a href="/" on:click|preventDefault={() => navigate("/")}>Home</a>
@@ -84,3 +90,17 @@
 {:else}
     <div>Loading...</div>
 {/if}
+
+<div id="footnote">
+    <sup>*</sup>Assuming your message is one of
+    <span id="count">{num_entries}</span> contained in the 1889 telegraphic
+    phrase-book <i>Unicode</i>.
+</div>
+
+<style lang="scss">
+  #tagline {
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+  }
+</style>

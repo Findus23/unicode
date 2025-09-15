@@ -10,9 +10,28 @@
 
 </script>
 
-<h1>Dynamic ({character})</h1>
+<h2 id="single_character">{character}</h2>
 
+<div class="message">{message}</div>
 <p>Code: {code}</p>
-<p>Message: {message}</p>
 
+<style lang="scss">
+
+  #single_character {
+    font-size: 15rem;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    margin: 0
+  }
+
+  .message {
+    display: block;
+    border: 1px solid lightgray;
+    background: #e6e6e6;
+    padding: 1em;
+    margin: 1em;
+    color: black;
+    border-radius: 1rem;
+    transition: all .2s;
+  }
+</style>
 

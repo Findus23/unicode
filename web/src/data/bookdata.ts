@@ -10,6 +10,7 @@ export const data_raw: Record<string, string> = total_data.data
 export const bookdata_by_unicode: DataSet = {}
 export const bookdata_by_full_text: DataSet = {}
 
+
 export const listOfData: Data[] = []
 
 let i = 0
@@ -27,4 +28,5 @@ for (const unicode_code in data_raw) {
         i++
     }
 }
+export const num_entries = i
 

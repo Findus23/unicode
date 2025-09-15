@@ -10,6 +10,15 @@ export function character_to_code(character: string) {
 
 }
 
+export function code_to_character(character: string) {
+    // placeholder logic
+    const char_index = listOfData.findIndex(data => data.unicode_code === character)
+
+    return char_array[char_index]
+
+
+}
+
 export function code_to_message(code: string) {
     return bookdata_by_unicode[code].full_text
 }
